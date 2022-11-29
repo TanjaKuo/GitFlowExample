@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\FlowExample\\FlowExample\\FlowExample.csproj",
+      "projectUniqueName": "C:\\Users\\Tanya.Kuo\\Desktop\\GitFlowExample\\FlowExample\\FlowExample.csproj",
       "projectName": "FlowExample",
-      "projectPath": "D:\\Dev\\FlowExample\\FlowExample\\FlowExample.csproj",
+      "projectPath": "C:\\Users\\Tanya.Kuo\\Desktop\\GitFlowExample\\FlowExample\\FlowExample.csproj",
       "packagesPath": "C:\\Users\\Tanya.Kuo\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\FlowExample\\FlowExample\\obj\\",
+      "outputPath": "C:\\Users\\Tanya.Kuo\\Desktop\\GitFlowExample\\FlowExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
