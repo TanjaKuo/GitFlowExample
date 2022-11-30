@@ -10,8 +10,7 @@ namespace FlowExample
             Console.WriteLine("second 2 ");
             Console.WriteLine("Everthing is new here yeah ");
             Console.ReadLine();
-            Console.ReadLine();
-            Console.ReadLine();
+            Console.WriteLine("toggle something here");
         }
     }
 }
