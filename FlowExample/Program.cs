@@ -8,6 +8,9 @@ namespace FlowExample
         {
             Console.WriteLine("Hello World2!");
             Console.WriteLine("second 2 ");
+            Console.WriteLine("Everthing is new here yeah ");
+            Console.ReadLine();
+            Console.ReadLine();
             Console.ReadLine();
         }
     }
